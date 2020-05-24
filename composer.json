@@ -1,0 +1,12 @@
+{
+    "name": "crudly/testly",
+    "description": "Test package",
+    "type": "laravel-package",
+    "license": "Mit",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Crudly\\Testly\\": "src"
+        }
+    }
+}
