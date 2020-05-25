@@ -8,5 +8,13 @@
         "psr-4": {
             "Crudly\\Testly\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Crudly\\Testly\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.2"
     }
 }
